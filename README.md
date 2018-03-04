@@ -1,0 +1,4 @@
+```
+mongod --dbpath $PWD/db/
+
+```

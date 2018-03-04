@@ -1,0 +1,4 @@
+/node_modules
+/db
+yarn-error.log
+/src/config.js
